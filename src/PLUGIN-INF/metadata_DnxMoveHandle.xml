@@ -7,7 +7,7 @@
 	</fr:x_form>
   </pl:initParameters>
   <pl:description>Copies the Handle from InternalIdentifier Dnx section to ObjectIdentifier section</pl:description>
-  <pl:version>8</pl:version>
+  <pl:version>1</pl:version>
   <pl:materialType>DIGITAL</pl:materialType>
   <pl:module>Repository</pl:module>
   <pl:generalType>TASK</pl:generalType>
